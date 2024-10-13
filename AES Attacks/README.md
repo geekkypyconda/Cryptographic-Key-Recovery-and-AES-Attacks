@@ -1,4 +1,4 @@
-# Short-Key-Brute-Force-and-Meet-in-the-Middle-Attacks-
+# AES-Attacks
 
 ## Short Key Brute Force
 
