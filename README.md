@@ -1,6 +1,6 @@
 # Cryptographic-Key-Recovery-and-AES-Attacks
 
-# Cipher-Key-Recovery
+# Cryptographic-Key-Recovery
 =====================================
 
 ## Overview
@@ -48,9 +48,9 @@ Hardcode the key in `cs23mtech11005_DecryptCipherTexts.py` and XOR all cipher te
 ---------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------
 
-# Short-Key-Brute-Force-and-Meet-in-the-Middle-Attacks-
+# AES Attacks
 
-## Short Key Brute Force
+## Attack 1: Short Key Brute Force
 
 ## How to Run the Program
 -------------------------
@@ -68,7 +68,7 @@ Hardcode the key in `cs23mtech11005_DecryptCipherTexts.py` and XOR all cipher te
 * The program reads from the files "aesCiphertexts.txt" and "aesPlaintexts.txt".
 * The special message is written to the file "aesSecretMessage.txt".
 
-## Meet in the Middle Attack
+## Attack 2: Meet in the Middle Attack
 
 ## How to Run the Program
 -------------------------
